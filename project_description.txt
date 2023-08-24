@@ -1,0 +1,4 @@
+refinement_cards.html
+	- Logo: Keines oder Wilhelm_Eduard_Weber_AI.png
+	- Anzahl der Teilnehmer: 7
+	- Zugang: Jeder, der die Seite kennt
